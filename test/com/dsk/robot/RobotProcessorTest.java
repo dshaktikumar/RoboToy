@@ -17,6 +17,7 @@ import com.dsk.robot.exceptions.RobotException;
  * This is the class to run the challenge's test cases
  */
 @TestMethodOrder(OrderAnnotation.class)
+
 public class RobotProcessorTest {
 
 	@Test
